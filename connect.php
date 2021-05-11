@@ -7,4 +7,3 @@ try {
     echo "Impossible d'initialiser une connection avec la base de données. Veuillez rééssayer plus tard.";
     die();
 }
- // MIS A JOURS 
